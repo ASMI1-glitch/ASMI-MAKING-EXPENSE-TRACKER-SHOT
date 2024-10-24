@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+#In order to start with this read the requirement first as recharts react icon is there these are few installation required here u can directly check error using npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
